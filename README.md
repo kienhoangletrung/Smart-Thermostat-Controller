@@ -1,14 +1,18 @@
-﻿# Smart-Thermostat-Controller
+﻿# Smart Thermostat Controller
 
-Electronic hardware module designed using **Altium Designer**.
+Wi-Fi enabled thermostat board.
+
+## Function
+Temperature control with IoT support.
+
+## Key Specifications
+- MCU: ESP32-WROOM-32
+- Sensor: DS18B20
+- HMI: I2C LCD + buttons
+- Output: 2 relays
 
 ## Hardware Preview
 ![Preview](preview.png)
 
-## Contents
-- Schematic
-- PCB Layout
-- 3D View
-
 ---
-Designed by **HOANG LE TRUNG KIEN**
+Designed by HOANG LE TRUNG KIEN
